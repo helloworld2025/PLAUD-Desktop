@@ -1,2 +1,2 @@
 # PLAUD-Desktop Test
-[Download PLAUD Desktop ](https://github.com/Plaud-AI/PLAUD-Desktop/releases)
+[Download PLAUD Desktop ](https://github.com/helloworld2025/PLAUD-Desktop/releases)
